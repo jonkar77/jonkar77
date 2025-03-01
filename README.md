@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full Stack Engineer</h3>
+<h3 align="center">An Engineer</h3>
 
 <h3 align="left">Profile:</h3>
 <p align="left">
